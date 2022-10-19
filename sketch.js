@@ -1,6 +1,6 @@
 // Declare global variables
 let myImage, myImage2, bg;
-let music, gnam, poor, win;
+let music, gnam, poor;
 let analyzer;
 let colorChoice1, colorChoice2;
 let shrek;
